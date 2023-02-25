@@ -1,0 +1,10 @@
+calculator: medium
+calcula|determina|evalua|troba (quant|quin és)? (quant|què val|dóna)? (el valor|resultat|càlcul de) .calculation.;
+
+calculator_operators: low
+[addition] més;
+[subtraction] menys;
+[multiplication] per|(multiplicat per);
+[division] entre|(dividit per|entre);
+[power] (elevat)? (a)? (potenciat per)?;
+[square_root] (la|l')? (arrel quadrada) (de)?;
